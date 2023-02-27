@@ -1,0 +1,10 @@
+﻿  InsertExp.cpp
+D:\OneDrive\Desktop\Coursework\CSC8501-Coursework\InsertExp.cpp(130,56): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive\Desktop\Coursework\CSC8501-Coursework\InsertExp.cpp(131,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ioManager.cpp
+  Main.cpp
+  DeriveExp.cpp
+D:\OneDrive\Desktop\Coursework\CSC8501-Coursework\DeriveExp.cpp(44,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UI.cpp
+  Generating Code...
+  CSC8501-Coursework.vcxproj -> D:\OneDrive\Desktop\Coursework\x64\Debug\CSC8501-Coursework.exe

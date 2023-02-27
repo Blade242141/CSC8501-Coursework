@@ -1,0 +1,5 @@
+﻿  DeriveExp.cpp
+  ioManager.cpp
+  Generating Code...
+C:\Users\b9035789\source\repos\CSC8501-Coursework\CSC8501-Coursework\CSC8501-Coursework\DeriveExp.cpp(44,8): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  CSC8501-Coursework.vcxproj -> C:\Users\b9035789\source\repos\CSC8501-Coursework\CSC8501-Coursework\Debug\CSC8501-Coursework.exe

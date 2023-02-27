@@ -1,0 +1,3 @@
+SetA.txt: 3x^3
+SetB.txt: 5x^4-9
+
